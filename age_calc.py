@@ -1,6 +1,6 @@
 import datetime;
 
-current_age = int(raw_input("What is your age?\n"));
+current_age = int(raw_input("What is your current age?/n"));
 #print(type(current_age));
 
 now = datetime.datetime.now();
